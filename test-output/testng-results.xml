@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-16T11:38:19 IST" name="Default suite" finished-at="2022-11-16T11:38:24 IST" duration-ms="4561">
+    <groups>
+    </groups>
+    <test started-at="2022-11-16T11:38:19 IST" name="Default test" finished-at="2022-11-16T11:38:24 IST" duration-ms="4561">
+      <class name="Data_Driven_Testing.TC1_DD_addingNewEmployees">
+        <test-method signature="post_new_employees(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Data_Driven_Testing.TC1_DD_addingNewEmployees@5119fb47]" started-at="2022-11-16T11:38:20 IST" name="post_new_employees" data-provider="stringdata" finished-at="2022-11-16T11:38:22 IST" duration-ms="1967" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tester]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_new_employees -->
+        <test-method signature="post_new_employees(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Data_Driven_Testing.TC1_DD_addingNewEmployees@5119fb47]" started-at="2022-11-16T11:38:22 IST" name="post_new_employees" data-provider="stringdata" finished-at="2022-11-16T11:38:23 IST" duration-ms="573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bhargav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Student]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_new_employees -->
+        <test-method signature="post_new_employees(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Data_Driven_Testing.TC1_DD_addingNewEmployees@5119fb47]" started-at="2022-11-16T11:38:23 IST" name="post_new_employees" data-provider="stringdata" finished-at="2022-11-16T11:38:23 IST" duration-ms="565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[animi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Developper]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[120000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_new_employees -->
+        <test-method signature="post_new_employees(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Data_Driven_Testing.TC1_DD_addingNewEmployees@5119fb47]" started-at="2022-11-16T11:38:23 IST" name="post_new_employees" data-provider="stringdata" finished-at="2022-11-16T11:38:24 IST" duration-ms="548" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[naveen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dataEngineer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[50000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_new_employees -->
+      </class> <!-- Data_Driven_Testing.TC1_DD_addingNewEmployees -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
